@@ -1,12 +1,13 @@
 import './App.css';
+import Navbar from './Navbar';
 
 function App() {
   const title = "Welcome!"
   return (
     <div className="App">
+      <Navbar />
       <div className="content">
         <h1>{title}</h1>
-        {Math.random()*10}
       </div>
     </div>
   );
