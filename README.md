@@ -9,7 +9,10 @@
 
 #### Friday, 09/24
 * 8:15: Good Morning!
-* 8:30: created a side project to learn more about react/redux with hooks by following the 40 parts youtube series from the net ninja.
+* 8:30: created a side project to learn more about modern react with hooks by following the 32 parts youtube series from the net ninja.
+* ...coding...
+* 3:30: completed the side project
+* 4:00: start creating a component tree for capstone
 
 ## Project Description
 this app will help you figure out which of your 10+ credit cards to use when you need to make a purchase.
