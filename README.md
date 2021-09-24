@@ -14,6 +14,9 @@
 * 3:30: completed the side project
 * 4:00: start creating a component tree for capstone
 
+## Component Diagram
+<img src='./component-diagram.JPG'>
+
 ## Project Description
 this app will help you figure out which of your 10+ credit cards to use when you need to make a purchase.
 
