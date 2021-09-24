@@ -11,7 +11,7 @@ const Home = () => {
       {isPending && <div>Loading...</div>}
       {blogs && <BlogList blogs={blogs} title = "Dummy Blogs" />}
 
-      {blogs && <BlogList blogs={blogs.filter((blog) => blog.author === 'andrew')} title = "Andrew Blogs"/>}
+      {blogs && <BlogList blogs={blogs.filter((blog) => blog.author === 'Andrew')} title = "Andrew Blogs"/>}
     </div>
   );
 }
